@@ -8,10 +8,10 @@ function Logo() {
             src="/logo.png"
             height={60}
             width={60}
-            alt="The Aurora Retreat logo"
+            alt="The Wild Oasis Retreat logo"
          />
          <span className="text-xl font-semibold text-primary-100">
-            Aurora Retreat
+            The Wild Oasis Retreat
          </span>
       </Link>
    );
