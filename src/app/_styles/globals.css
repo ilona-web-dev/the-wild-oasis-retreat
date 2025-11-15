@@ -70,6 +70,12 @@
    --rdp-day_button-width: 2rem !important;
 }
 
+.rdp-day:hover {
+   border-radius: 9999px;
+   background-color: var(--rdp-accent-color);
+   color: #fff;
+}
+
 nav.rdp-nav {
    display: none;
 }
